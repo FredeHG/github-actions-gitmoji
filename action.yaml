@@ -1,4 +1,5 @@
 name: 'gitmoji PR title checker'
+description: 'Automatically check each PR title and fail if it does not contain an emoji.'
 
 on:
   pull_request:
