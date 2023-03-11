@@ -1,3 +1,4 @@
+name: 'gitmoji PR title checker'
 
 on:
   pull_request:
